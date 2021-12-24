@@ -1,8 +1,8 @@
-#Pute 
+# Pute 
 
-##Zutaten
+## Zutaten
 
-### Pute
+
 * Pute
 * Wild fond
 * Geflügel fond
@@ -23,7 +23,7 @@
 * Tomaten mark
 * Zwiebeln
 
-##Zubereitung
+## Zubereitung
 
 ### Füllung
 1. Mett mit Hackfleisch mischen
