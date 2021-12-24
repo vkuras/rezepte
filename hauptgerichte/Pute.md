@@ -46,7 +46,7 @@
 4. Sobald mann genung soße hat ca. 3 stunden pute nurnoch mit sud vom backblech ein pinseln.
 
 ### Soße (könnte verbessert werden)
-1. Puten hals in olivenöl oder butter anbraten und tomaten mark und zwiebelen
+1. Puten hals in olivenöl oder butter anbraten und tomaten mark und (zwiebeln optional)
 2. Geflügel fond und wild fond dazugeben.
 3. Ein großes glas rotwein hinzugeben
 4. Saft welcher eim pute braten entsteht immer in die soße kippen
